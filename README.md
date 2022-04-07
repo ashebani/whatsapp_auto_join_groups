@@ -10,5 +10,8 @@ To make it work, you have to do the following:
 2. Type the number you want the messages to be sent to, or type the name of the group, It is better to make a group so you can easily delete it later.
 3. Enter your links in the excel file named "dataset".
 
+
+Please note that is still doesnt work on broken or full groups, so make sure all your groups are not full and not broken.
+
 and you are good to go!
 i will make more changes in the future.
